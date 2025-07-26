@@ -1,7 +1,12 @@
 import KBMH_Logo from "./images/Logo.svg";
 // Hero Section
-import Hero_Image from "./images/hero_image.png";
+import Hero_Image from "./images/HeroFinalImage.png";
 import Hero_Overlay from "./images/hero_overlay.png";
+import FaceBookIcon from "./images/facebookIcon.svg";
+import InstagramIcon from "./images/instagramIcon.svg";
+import TwitterIcon from "./images/twitterIcon.svg";
+import LinkedinIcon from "./images/linkdinIcon.svg";
+import YoutubeIcon from "./images/youtubeIcon.svg";
 // Doctor images
 import Dr from "./images/dr.png";
 import Dr2 from "./images/dr2.png";
@@ -79,5 +84,10 @@ export {
   XRay,
   Ambulance,
   LocationIcon,
-  CallIcon
+  CallIcon,
+  FaceBookIcon,
+  InstagramIcon,
+  TwitterIcon,
+  LinkedinIcon,
+  YoutubeIcon
 };

@@ -12,7 +12,11 @@ const TopServices = () => {
           Top Services
         </p>
       </div>
-      <div className="pl-4">
+      <div className="pl-4 space-y-5">
+        <ComSlider 
+          components={videoComponents}
+          width="150px"
+        />
         <ComSlider 
           components={videoComponents}
           width="150px"

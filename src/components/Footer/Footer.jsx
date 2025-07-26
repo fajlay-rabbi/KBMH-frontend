@@ -4,7 +4,7 @@ import { iconComponents, SocialBtn } from "../Home/HeroSection";
 
 const Footer = () => {
   return (
-    <footer className="bg-[#02121B] max-w-[600px] mx-auto">
+    <div className="bg-[#02121B] max-w-[600px] mx-auto">
       <div className="container-custom mx-auto py-5">
         <div className="flex items-center gap-10 sm:gap-16 justify-center">
           <div className="flex items-center gap-2">
@@ -52,9 +52,11 @@ const Footer = () => {
         </div>
       </div>
       <div className="h-16 flex items-center justify-center bg-white">
-          <p className="text-[#555555] text-xs font-archivo">Khwaja Badrudduja Modern Hospital ©2025</p>
+          <p className="text-[#555555] text-xs font-archivo">
+            All rights Reserved, Khwaja Badrudduja Modern Hospital ©2025
+          </p>
         </div>
-    </footer>
+    </div>
   );
 };
 

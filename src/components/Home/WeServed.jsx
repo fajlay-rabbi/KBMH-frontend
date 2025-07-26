@@ -1,13 +1,21 @@
 import React from "react";
 import AutoSliderRow from "../shared/AutoSliderRow";
-import { weServedRow1, weServedRow2, weServedRow3, weServedRow4, weServedRow5, weServedRow6, weServedRow7 } from "@/utils/data/data";
+import {
+  weServedRow1,
+  weServedRow2,
+  weServedRow3,
+  weServedRow4,
+  weServedRow5,
+  weServedRow6,
+  weServedRow7,
+} from "@/utils/data/data";
 
 const WeServed = () => {
   return (
     <section>
       <div className="container-custom mx-auto">
         <p className="font-archivo text-gradient text-xl font-bold pb-5">
-          We Served 100+ Doctor’s
+          100+ Doctor&apos;s
         </p>
       </div>
       <div className="w-full pl-4 space-y-5">
