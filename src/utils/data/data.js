@@ -216,7 +216,7 @@ export const videoComponents = [
   <VideoCard
     key={0}
     title="সুস্থতা | থ্যালাসেমিয়া রোগীর জীবনযাপন এবং সতর্কতা"
-    imageLink={"https://youtu.be/O9ijnIxzVYY?feature=shared"}
+    imageLink={"https://youtu.be/5W5Gd1kZ190?feature=shared"}
     thumbnail={1}
   />,
   <VideoCard
@@ -228,38 +228,38 @@ export const videoComponents = [
   <VideoCard
     key={2}
     title="খাজা বদরুদ্দোজা মডার্ন হাসপাতাল – সেরা চিকিৎসক, সেরা হাসপাতাল।"
-    imageLink={"https://youtu.be/O9ijnIxzVYY?feature=shared"}
+    imageLink={"https://youtu.be/5W5Gd1kZ190?feature=shared"}
     thumbnail={3}
   />,
   <VideoCard
     key={3}
     title="বাংলাদেশের প্রখ্যাত চিত্রশিল্পী ওমর সানি খাজা বদরুদদোজা মডার্ন হাসপাতালে"
-    imageLink={"https://youtu.be/O9ijnIxzVYY?feature=shared"}
+    imageLink={"https://www.facebook.com/share/v/1C9K5iLSMN/"}
     thumbnail={4}
   />,
   <VideoCard
     key={4}
     title="খাজা বদরুদদোজা মডার্ন হাসপাতালের একটি অঙ্গ প্রতিষ্ঠান খাজা বদরুদদোজা মডার্ন স্পেশালাইজড মাদার এন্ড চাইল্ড কেয়ার ইউনিটে"
-    imageLink={"https://youtu.be/O9ijnIxzVYY?feature=shared"}
+    imageLink={"https://www.facebook.com/share/v/1af6fZKk35/"}
     thumbnail={5}
   />,
   <VideoCard
     key={5}
     title="খাজা বদরুদ্দোজা মডার্ন হাসপাতাল / সেরা চিকিৎসক, সেরা হাসপাতাল – অপারেশন থিয়েটার"
-    imageLink={"https://youtu.be/O9ijnIxzVYY?feature=shared"}
+    imageLink={"https://www.facebook.com/share/v/16GJCUQmyW/"}
     thumbnail={6}
   />,
   <VideoCard
     key={6}
     title="খাজা বদরুদ্দোজা মডার্ন হাসপাতাল – সেরা চিকিৎসক, সেরা হাসপাতাল।"
-    imageLink={"https://youtu.be/O9ijnIxzVYY?feature=shared"}
+    imageLink={"https://www.facebook.com/share/v/19RhKSUdt7/"}
     thumbnail={7}
   />,
   <VideoCard
     key={7}
     title="খাজা বদরুদদোজা মডার্ন হাসপাতালের একটি অঙ্গ প্রতিষ্ঠান
 খাজা বদরুদদোজা মডার্ন স্পেশালাইজড মাদার এন্ড চাইল্ড কেয়ার"
-    imageLink={"https://youtu.be/O9ijnIxzVYY?feature=shared"}
+    imageLink={"https://www.facebook.com/share/r/15jhn1H5pE/"}
     thumbnail={2}
   />,
 ];
