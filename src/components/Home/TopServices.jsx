@@ -17,10 +17,10 @@ const TopServices = () => {
           components={videoComponents}
           width="150px"
         />
-        <ComSlider 
+        {/* <ComSlider 
           components={videoComponents}
           width="150px"
-        />
+        /> */}
       </div>
     </section>
   );

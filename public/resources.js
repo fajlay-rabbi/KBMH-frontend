@@ -20,7 +20,13 @@ import Dr6 from "./images/dr6.png";
 import Dr7 from "./images/dr7.png";
 import Dr72 from "./images/dr72.png";
 import Dr73 from "./images/dr73.png";
-import VideoPlaceHolder from "./images/Video.png";
+import VideoPlaceHolder1 from "./images/1.png";
+import VideoPlaceHolder2 from "./images/2.png";
+import VideoPlaceHolder3 from "./images/3.png";
+import VideoPlaceHolder4 from "./images/4.png";
+import VideoPlaceHolder5 from "./images/5.png";
+import VideoPlaceHolder6 from "./images/6.png";
+import VideoPlaceHolder7 from "./images/7.png";
 //Top Department
 import Medicine from "./images/medicine.svg";
 import Ortho from "./images/ortho.svg";
@@ -36,15 +42,15 @@ import Physiotherapy from "./images/physio.svg";
 import Emergency from "./images/emergency.svg";
 import Pharmacy from "./images/pharmacy.svg";
 import OT from "./images/ot.svg";
-import PostOperative from './images/postOperative.svg';
-import Cabin from './images/cabin.svg';
-import Pathology from './images/pathology.svg';
-import UltraSound from './images/ultrasound.svg';
-import OtScan from './images/otScan.svg';
-import XRay from './images/digitalXRay.svg';
-import Ambulance from './images/ambulance.svg';
-import LocationIcon from './images/location.svg';
-import CallIcon from './images/CallIcon.svg';
+import PostOperative from "./images/postOperative.svg";
+import Cabin from "./images/cabin.svg";
+import Pathology from "./images/pathology.svg";
+import UltraSound from "./images/ultrasound.svg";
+import OtScan from "./images/otScan.svg";
+import XRay from "./images/digitalXRay.svg";
+import Ambulance from "./images/ambulance.svg";
+import LocationIcon from "./images/location.svg";
+import CallIcon from "./images/CallIcon.svg";
 
 export {
   KBMH_Logo,
@@ -62,7 +68,13 @@ export {
   Dr7,
   Dr72,
   Dr73,
-  VideoPlaceHolder,
+  VideoPlaceHolder1,
+  VideoPlaceHolder2,
+  VideoPlaceHolder3,
+  VideoPlaceHolder4,
+  VideoPlaceHolder5,
+  VideoPlaceHolder6,
+  VideoPlaceHolder7,
   Medicine,
   Ortho,
   Gynea,
@@ -89,5 +101,5 @@ export {
   InstagramIcon,
   TwitterIcon,
   LinkedinIcon,
-  YoutubeIcon
+  YoutubeIcon,
 };

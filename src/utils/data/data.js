@@ -213,14 +213,55 @@ export const weServedRow7 = [
 ];
 
 export const videoComponents = [
-  <VideoCard key={0} title="Our Latest Video" />,
-  <VideoCard key={1} title="Our Latest Video" />,
-  <VideoCard key={2} title="Our Latest Video" />,
-  <VideoCard key={3} title="Our Latest Video" />,
-  <VideoCard key={4} title="Our Latest Video" />,
-  <VideoCard key={5} title="Our Latest Video" />,
-  <VideoCard key={6} title="Our Latest Video" />,
-  <VideoCard key={7} title="Our Latest Video" />,
+  <VideoCard
+    key={0}
+    title="সুস্থতা | থ্যালাসেমিয়া রোগীর জীবনযাপন এবং সতর্কতা"
+    imageLink={"https://youtu.be/O9ijnIxzVYY?feature=shared"}
+    thumbnail={1}
+  />,
+  <VideoCard
+    key={1}
+    title="সুস্থতা – প্রথম পর্ব | চ্যানেল নাইন জেনারেল এন্টারটেইনমেন্ট চ্যানেল (GEC)"
+    imageLink={"https://youtu.be/O9ijnIxzVYY?feature=shared"}
+    thumbnail={2}
+  />,
+  <VideoCard
+    key={2}
+    title="খাজা বদরুদ্দোজা মডার্ন হাসপাতাল – সেরা চিকিৎসক, সেরা হাসপাতাল।"
+    imageLink={"https://youtu.be/O9ijnIxzVYY?feature=shared"}
+    thumbnail={3}
+  />,
+  <VideoCard
+    key={3}
+    title="বাংলাদেশের প্রখ্যাত চিত্রশিল্পী ওমর সানি খাজা বদরুদদোজা মডার্ন হাসপাতালে"
+    imageLink={"https://youtu.be/O9ijnIxzVYY?feature=shared"}
+    thumbnail={4}
+  />,
+  <VideoCard
+    key={4}
+    title="খাজা বদরুদদোজা মডার্ন হাসপাতালের একটি অঙ্গ প্রতিষ্ঠান খাজা বদরুদদোজা মডার্ন স্পেশালাইজড মাদার এন্ড চাইল্ড কেয়ার ইউনিটে"
+    imageLink={"https://youtu.be/O9ijnIxzVYY?feature=shared"}
+    thumbnail={5}
+  />,
+  <VideoCard
+    key={5}
+    title="খাজা বদরুদ্দোজা মডার্ন হাসপাতাল / সেরা চিকিৎসক, সেরা হাসপাতাল – অপারেশন থিয়েটার"
+    imageLink={"https://youtu.be/O9ijnIxzVYY?feature=shared"}
+    thumbnail={6}
+  />,
+  <VideoCard
+    key={6}
+    title="খাজা বদরুদ্দোজা মডার্ন হাসপাতাল – সেরা চিকিৎসক, সেরা হাসপাতাল।"
+    imageLink={"https://youtu.be/O9ijnIxzVYY?feature=shared"}
+    thumbnail={7}
+  />,
+  <VideoCard
+    key={7}
+    title="খাজা বদরুদদোজা মডার্ন হাসপাতালের একটি অঙ্গ প্রতিষ্ঠান
+খাজা বদরুদদোজা মডার্ন স্পেশালাইজড মাদার এন্ড চাইল্ড কেয়ার"
+    imageLink={"https://youtu.be/O9ijnIxzVYY?feature=shared"}
+    thumbnail={2}
+  />,
 ];
 
 export const topDepartmentRow1 = [
@@ -293,9 +334,17 @@ export const highlightedServiceRow1 = [
   <HighlightedServicesCard key={0} image={Emergency} title="Emergency" />,
   <HighlightedServicesCard key={1} image={Pharmacy} title="Pharmacy" />,
   <HighlightedServicesCard key={2} image={OT} title="OT (Operation Theatre)" />,
-  <HighlightedServicesCard key={3} image={PostOperative} title="Post-Operative Care" />,
-  <HighlightedServicesCard key={4} image={Cabin} title="Cabin & General Ward" />,
-]
+  <HighlightedServicesCard
+    key={3}
+    image={PostOperative}
+    title="Post-Operative Care"
+  />,
+  <HighlightedServicesCard
+    key={4}
+    image={Cabin}
+    title="Cabin & General Ward"
+  />,
+];
 
 export const highlightedServiceRow2 = [
   <HighlightedServicesCard key={0} image={Pathology} title="Pathology" />,
@@ -303,4 +352,4 @@ export const highlightedServiceRow2 = [
   <HighlightedServicesCard key={2} image={OtScan} title="CT Scan" />,
   <HighlightedServicesCard key={3} image={XRay} title="Digital X-Ray" />,
   <HighlightedServicesCard key={4} image={Ambulance} title="Ambulance" />,
-]
+];
